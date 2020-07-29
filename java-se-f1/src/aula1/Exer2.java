@@ -1,4 +1,4 @@
-package aula2;
+package aula1;
 
 public class Exer2 {
 
